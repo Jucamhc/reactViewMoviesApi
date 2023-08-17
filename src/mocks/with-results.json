@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Ava",
+      "Year": "2020",
+      "imdbID": "tt8784956",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ava",
+      "Year": "2017",
+      "imdbID": "tt6194530",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UyNzlkMjUtM2E1ZS00MTljLWJkMmEtODYzNGM1NmY5ODNiXkEyXkFqcGdeQXVyNjUyMzIyODA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ali & Ava",
+      "Year": "2021",
+      "imdbID": "tt11559472",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyZGM3ZmItZWMwNi00MzRhLTk1OTctMWEwNDQxYTQ5Njg5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hunting Ava Bravo",
+      "Year": "2022",
+      "imdbID": "tt13872380",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOThhYzRmMDYtNmU0Ny00ZjVjLWI0N2QtNTdiZmQ3YzY2ZjlhXkEyXkFqcGdeQXVyMTE2NTcwNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ava",
+      "Year": "2017",
+      "imdbID": "tt7259986",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxOTUyYzMtMDY3ZC00YTY0LWIyNjEtYWYwNjE0YTA4YWI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "13th: A Conversation with Oprah Winfrey & Ava DuVernay",
+      "Year": "2017",
+      "imdbID": "tt6491068",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWMwNGVmYmYtYWVlNy00NGQ2LTg2N2EtMTllOGEyNzJhMThhXkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Frank and Ava",
+      "Year": "2020",
+      "imdbID": "tt5963314",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmYjA0MzgtN2NmNy00MzNiLThmNjMtZDI0ZjRhNzBlZTdkXkEyXkFqcGdeQXVyODA4MzkyNjM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ava Gardner, la gitane d'Hollywood: les années espagnoles de la Comtesse aux Pieds Nus",
+      "Year": "2018",
+      "imdbID": "tt8610760",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQzYWNkZDMtYWM5Mi00MzA3LWI0MjQtMjFhMjQ0ZTc3MmE5XkEyXkFqcGdeQXVyMjIwNjIxNjc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ava",
+      "Year": "2020",
+      "imdbID": "tt8706138",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODI3YmQ3NTAtNTgwNi00OWY2LWE2MGMtOTc1MjBkYWViMTljXkEyXkFqcGdeQXVyODg2MTA0Mw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ava in the End",
+      "Year": "2019",
+      "imdbID": "tt8996338",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5MzNkYjctNWQ0Yy00MTI3LWJhYzEtZjhkM2FlMzVmZWUxXkEyXkFqcGdeQXVyMTk5NzAxMzg@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "100",
+  "Response": "True"
+}
